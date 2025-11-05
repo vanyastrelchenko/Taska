@@ -64,3 +64,11 @@ fastlane/test_output
 Sources/.DS_Store
 .DS_Store
 Sources/.DS_Store
+# macOS
+.DS_Store
+
+# Xcode
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+DerivedData/
