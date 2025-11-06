@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		5DF18E602EBB46870070CC59 /* Taska.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Taska.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5DACC7482EBCD9CA00607DB8 /* Taska.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Taska.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5DF18E622EBB46870070CC59 /* Taska */ = {
+		5DACC74A2EBCD9CA00607DB8 /* TaskaIOS */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Taska;
+			path = TaskaIOS;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5DF18E5D2EBB46870070CC59 /* Frameworks */ = {
+		5DACC7452EBCD9CA00607DB8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5DF18E572EBB46870070CC59 = {
+		5DACC73F2EBCD9CA00607DB8 = {
 			isa = PBXGroup;
 			children = (
-				5DF18E622EBB46870070CC59 /* Taska */,
-				5DF18E612EBB46870070CC59 /* Products */,
+				5DACC74A2EBCD9CA00607DB8 /* TaskaIOS */,
+				5DACC7492EBCD9CA00607DB8 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		5DF18E612EBB46870070CC59 /* Products */ = {
+		5DACC7492EBCD9CA00607DB8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5DF18E602EBB46870070CC59 /* Taska.app */,
+				5DACC7482EBCD9CA00607DB8 /* Taska.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5DF18E5F2EBB46870070CC59 /* Taska */ = {
+		5DACC7472EBCD9CA00607DB8 /* Taska */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5DF18E6B2EBB46880070CC59 /* Build configuration list for PBXNativeTarget "Taska" */;
+			buildConfigurationList = 5DACC7532EBCD9CB00607DB8 /* Build configuration list for PBXNativeTarget "Taska" */;
 			buildPhases = (
-				5DF18E5C2EBB46870070CC59 /* Sources */,
-				5DF18E5D2EBB46870070CC59 /* Frameworks */,
-				5DF18E5E2EBB46870070CC59 /* Resources */,
+				5DACC7442EBCD9CA00607DB8 /* Sources */,
+				5DACC7452EBCD9CA00607DB8 /* Frameworks */,
+				5DACC7462EBCD9CA00607DB8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5DF18E622EBB46870070CC59 /* Taska */,
+				5DACC74A2EBCD9CA00607DB8 /* TaskaIOS */,
 			);
 			name = Taska;
 			packageProductDependencies = (
 			);
 			productName = Taska;
-			productReference = 5DF18E602EBB46870070CC59 /* Taska.app */;
+			productReference = 5DACC7482EBCD9CA00607DB8 /* Taska.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5DF18E582EBB46870070CC59 /* Project object */ = {
+		5DACC7402EBCD9CA00607DB8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2600;
 				LastUpgradeCheck = 2600;
 				TargetAttributes = {
-					5DF18E5F2EBB46870070CC59 = {
+					5DACC7472EBCD9CA00607DB8 = {
 						CreatedOnToolsVersion = 26.0.1;
 					};
 				};
 			};
-			buildConfigurationList = 5DF18E5B2EBB46870070CC59 /* Build configuration list for PBXProject "Taska" */;
+			buildConfigurationList = 5DACC7432EBCD9CA00607DB8 /* Build configuration list for PBXProject "Taska" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 5DF18E572EBB46870070CC59;
+			mainGroup = 5DACC73F2EBCD9CA00607DB8;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 5DF18E612EBB46870070CC59 /* Products */;
+			productRefGroup = 5DACC7492EBCD9CA00607DB8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5DF18E5F2EBB46870070CC59 /* Taska */,
+				5DACC7472EBCD9CA00607DB8 /* Taska */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5DF18E5E2EBB46870070CC59 /* Resources */ = {
+		5DACC7462EBCD9CA00607DB8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5DF18E5C2EBB46870070CC59 /* Sources */ = {
+		5DACC7442EBCD9CA00607DB8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		5DF18E692EBB46880070CC59 /* Debug */ = {
+		5DACC7512EBCD9CB00607DB8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		5DF18E6A2EBB46880070CC59 /* Release */ = {
+		5DACC7522EBCD9CB00607DB8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Release;
 		};
-		5DF18E6C2EBB46880070CC59 /* Debug */ = {
+		5DACC7542EBCD9CB00607DB8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -275,7 +275,7 @@
 			};
 			name = Debug;
 		};
-		5DF18E6D2EBB46880070CC59 /* Release */ = {
+		5DACC7552EBCD9CB00607DB8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -309,25 +309,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5DF18E5B2EBB46870070CC59 /* Build configuration list for PBXProject "Taska" */ = {
+		5DACC7432EBCD9CA00607DB8 /* Build configuration list for PBXProject "Taska" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5DF18E692EBB46880070CC59 /* Debug */,
-				5DF18E6A2EBB46880070CC59 /* Release */,
+				5DACC7512EBCD9CB00607DB8 /* Debug */,
+				5DACC7522EBCD9CB00607DB8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5DF18E6B2EBB46880070CC59 /* Build configuration list for PBXNativeTarget "Taska" */ = {
+		5DACC7532EBCD9CB00607DB8 /* Build configuration list for PBXNativeTarget "Taska" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5DF18E6C2EBB46880070CC59 /* Debug */,
-				5DF18E6D2EBB46880070CC59 /* Release */,
+				5DACC7542EBCD9CB00607DB8 /* Debug */,
+				5DACC7552EBCD9CB00607DB8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5DF18E582EBB46870070CC59 /* Project object */;
+	rootObject = 5DACC7402EBCD9CA00607DB8 /* Project object */;
 }
